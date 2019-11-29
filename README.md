@@ -6,6 +6,7 @@ Template for Django projects.
 Django-Quickstart
 ├── app/
 │   ├── media/
+│   ├── migrations/
 │   ├── static/
 │   ├── templates/
 |   ├── __init__.py
