@@ -42,3 +42,8 @@ Django-Quickstart
 | media/            | For use in development only: User-generated static media assets such as photos uploaded by users. |
 | static/           | Non-user-generated static media assets including CSS, JavaScript, and images. |
 | templates/        | Where you put your site-wide Django templates. |
+
+
+## To-Do
+- [ ] Custom user model
+- [ ] Registration view + route
